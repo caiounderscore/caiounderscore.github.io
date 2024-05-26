@@ -17,11 +17,11 @@ body {
 
 
 .container {
-    width: 40%;
-    margin: 0 auto;
-    border: 5px solid rgb(0, 255, 0); 
-    padding: 60px;
-    background-color: #000000; /* Fundo amarelo */
+    width: 300px;
+    margin: auto;
+    border: 6px solid rgb(0, 255, 0); 
+    padding: 50px;
+    background-color: #000000; 
 }
 h1 {
     text-shadow: 2.5px 2.5px rgb(0,0,255); /* Sombra de texto azul */
