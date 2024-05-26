@@ -10,7 +10,7 @@ body {
 
 @media screen and (max-width: 600px) {
     .container table {
-      margin: 0 auto;
+      margin: 20
     }
   }
 
@@ -52,7 +52,7 @@ h1 {
 }
 
 table {
-    margin-left: auto;
+    margin-left: 45px;
     margin-right: auto;
 }
 
